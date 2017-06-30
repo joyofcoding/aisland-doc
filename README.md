@@ -229,7 +229,7 @@ So ultimately you would have to balance the actions based on the power you posse
 
 To conquer a node you need to move to it. At each turn, you are allowed to make at most one move for each node that you own, and tell the server how (action) and whereto (direction) you want to make those moves.
 
-    POST /rounds/{roundId}/players/{playerId}/moves
+    POST /rounds/{roundId}/players/{playerId}/moves/{token}
     
 For example, with body:
 
