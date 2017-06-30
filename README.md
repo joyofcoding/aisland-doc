@@ -1,4 +1,4 @@
-## AIsland
+## AIsland: https://github.com/joyofcoding/aisland-doc
 
 During [Joy of Coding 2017](http://joyofcoding.org) the huge video wall at De Rotterdamse Schouwburg will be running a programming contest, called AIsland.
 
